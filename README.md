@@ -223,13 +223,18 @@ tools:context="com.example.android.intents.SecondActivity">
 
 
 ## Output:
+
 <img width="155" alt="image" src="https://user-images.githubusercontent.com/94185707/236989764-effac3c1-3e4a-42a0-8364-eff2385623c6.png">
 
 ##Explicit Intent:
+
+
 <img width="165" alt="image" src="https://user-images.githubusercontent.com/94185707/236989895-656b1d5e-2018-4fb3-892d-5bdf301386d8.png">
 
 ##Implicit Intent:
 
+
+<img width="158" alt="image" src="https://user-images.githubusercontent.com/94185707/236990579-926391c3-0928-44cd-8368-f7433548c296.png">
 
 
 
